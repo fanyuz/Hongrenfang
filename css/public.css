@@ -449,4 +449,284 @@
   text-align: center;
   line-height: 1rem;
 }
+/* 学员风采 */
+.main_xyfc {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  margin: 0.75rem 0;
+}
+.main_xyfc .top {
+  width: 11.375rem;
+  height: 1.275rem;
+  box-shadow: 1px 1px 2px 1px #B0B0B0;
+}
+.main_xyfc .top img {
+  width: 100%;
+  height: 100%;
+}
+.main_xyfc .content_nav {
+  width: 8.5rem;
+  height: 1.25rem;
+  margin: 0.75rem auto;
+}
+.main_xyfc .content_nav a {
+  width: 3.75rem;
+  height: 1.25rem;
+  float: left;
+  margin: 0 0.25rem;
+  line-height: 1.25rem;
+  font-size: 0.5rem;
+  background: #A5A5A5;
+  color: #070707;
+  text-align: center;
+}
+.main_xyfc .content_nav a:nth-child(1) {
+  background: #880316;
+  color: #FFFFFF;
+}
+.main_xyfc .content {
+  width: 15rem;
+  height: auto;
+  overflow: hidden;
+  margin: 0.75rem auto 0;
+}
+.main_xyfc .content > a {
+  width: 7rem;
+  height: 6.5rem;
+  padding: 0.25rem;
+  margin-right: 1rem;
+  margin-bottom: 0.75rem;
+  border: 1px solid #E3E3E3;
+  float: left;
+}
+.main_xyfc .content > a img {
+  width: 6.5rem;
+  height: 4.5rem;
+  display: block;
+  margin-bottom: 0.25rem;
+}
+.main_xyfc .content > a p {
+  font-size: 0.5rem;
+  line-height: 1.25rem;
+  float: left;
+  width: 100%;
+  height: 1.25rem;
+  overflow: hidden;
+  background: #061E48;
+  color: #fff;
+  text-align: center;
+}
+.main_xyfc .content > a i {
+  font-size: 0.75rem;
+  color: #9E9E9E;
+  line-height: 1.5rem;
+  float: right;
+}
+.main_xyfc .content > a:nth-child(2n) {
+  margin-right: 0;
+}
+.main_xyfc .pagelist {
+  width: 8rem;
+  height: 1rem;
+  margin: 1.25rem auto;
+}
+.main_xyfc .pagelist > a {
+  width: 3rem;
+  height: 1rem;
+  background: #880316;
+  font-size: 0.5rem;
+  color: #FFFFFF;
+  float: left;
+  margin: 0 0.5rem;
+  text-align: center;
+  line-height: 1rem;
+}
+/* 最新公告  */
+.main_zxgg {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  margin: 0.75rem 0;
+}
+.main_zxgg .top {
+  width: 11.375rem;
+  height: 1.275rem;
+  box-shadow: 1px 1px 2px 1px #B0B0B0;
+}
+.main_zxgg .top img {
+  width: 100%;
+  height: 100%;
+}
+.main_zxgg .content {
+  width: 15rem;
+  height: auto;
+  overflow: hidden;
+  margin: 0.75rem auto 0;
+}
+.main_zxgg .content > ul {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+.main_zxgg .content > ul li {
+  width: 100%;
+  height: 4.5rem;
+  margin: 0.5rem 0;
+}
+.main_zxgg .content > ul li .ul_top {
+  height: 2.25rem;
+  width: 100%;
+  border-bottom: 1px dashed #AEAEAE;
+}
+.main_zxgg .content > ul li .ul_top > a {
+  font-size: 0.625rem;
+  line-height: 1rem;
+  color: #880316;
+  display: block;
+}
+.main_zxgg .content > ul li .ul_top span {
+  font-size: 0.5rem;
+  color: #B5B5B5;
+  line-height: 1rem;
+  display: block;
+}
+.main_zxgg .content > ul li > p {
+  font-size: 0.5rem;
+  line-height: 1.125rem;
+  color: #303030;
+}
+.main_zxgg .content > ul li > p a {
+  color: #0D5094;
+}
+.main_zxgg .pagelist {
+  width: 8rem;
+  height: 1rem;
+  margin: 1.25rem auto;
+}
+.main_zxgg .pagelist > a {
+  width: 3rem;
+  height: 1rem;
+  background: #880316;
+  font-size: 0.5rem;
+  color: #FFFFFF;
+  float: left;
+  margin: 0 0.5rem;
+  text-align: center;
+  line-height: 1rem;
+}
+/* 课程设置  */
+.main_kcsz {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  margin: 0.75rem 0 2rem;
+}
+.main_kcsz .top {
+  width: 11.375rem;
+  height: 1.275rem;
+  box-shadow: 1px 1px 2px 1px #B0B0B0;
+}
+.main_kcsz .top img {
+  width: 100%;
+  height: 100%;
+}
+.main_kcsz .content_nav {
+  width: 10rem;
+  height: 1.25rem;
+  margin: 0.75rem auto;
+}
+.main_kcsz .content_nav a {
+  width: 4.5rem;
+  height: 1.25rem;
+  float: left;
+  margin: 0 0.25rem;
+  line-height: 1.25rem;
+  font-size: 0.5rem;
+  background: #A5A5A5;
+  color: #070707;
+  text-align: center;
+}
+.main_kcsz .content_nav a:nth-child(1) {
+  background: #880316;
+  color: #FFFFFF;
+}
+.main_kcsz .content {
+  width: 15rem;
+  height: auto;
+  overflow: hidden;
+  margin: 0.75rem auto 0;
+}
+.main_kcsz .content .cont_top {
+  width: 100%;
+  height: 5rem;
+  text-align: center;
+}
+.main_kcsz .content .cont_top p {
+  line-height: 1rem;
+  font-size: 0.55rem;
+  color: #070707;
+}
+.main_kcsz .content .cont_top .color_red {
+  color: #880316;
+}
+.main_kcsz .content .cont_table {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+.main_kcsz .content .cont_table h3 {
+  font-size: 0.6rem;
+  color: #880316;
+  line-height: 2rem;
+  font-weight: 600;
+  text-align: center;
+}
+.main_kcsz .content .cont_table table {
+  border: 1px solid #888888;
+  border-collapse: collapse;
+  font-size: 0.5rem;
+}
+.main_kcsz .content .cont_table table tr:nth-child(1) {
+  width: 100%;
+  height: 1.25rem;
+  overflow: hidden;
+}
+.main_kcsz .content .cont_table table tr:nth-child(1) > th:nth-child(1) {
+  width: 3rem;
+  text-align: center;
+  border: 1px solid #888888;
+}
+.main_kcsz .content .cont_table table tr:nth-child(1) > th:nth-child(2) {
+  width: 12rem;
+  padding-left: 1rem;
+  border: 1px solid #888888;
+  text-align: left;
+  text-indent: 1rem;
+}
+.main_kcsz .content .cont_table table tr {
+  width: 100%;
+  height: 5.75rem;
+}
+.main_kcsz .content .cont_table table tr > td {
+  border: 1px solid #888888;
+}
+.main_kcsz .content .cont_table table tr > td:nth-child(1) {
+  width: 3rem;
+  height: 5.75rem;
+  line-height: 100%;
+  text-align: center;
+}
+.main_kcsz .content .cont_table table tr > td:nth-child(2) {
+  width: 12rem;
+  height: 100%;
+  padding: 0.5rem;
+}
+.main_kcsz .content .cont_table table tr > td:nth-child(2) p {
+  color: #040404;
+  line-height: 1rem;
+}
+.main_kcsz .content .cont_table table tr > td:nth-child(2) p:nth-child(1) {
+  color: #880316;
+}
 /*# sourceMappingURL=public.css.map */
